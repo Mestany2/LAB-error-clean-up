@@ -23,4 +23,4 @@ const houses = [
   }
 ];
 
-export {students, voldysArmy, houses};
+export { students, voldysArmy, houses };
