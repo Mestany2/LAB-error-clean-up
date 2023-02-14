@@ -1,4 +1,4 @@
-import {renderToDOM} from ../utils/renderToDOM;  
+import renderToDOM from "../utils/renderToDOM"; 
 
 const htmlStructure = () => {
     const domString = `
@@ -31,3 +31,4 @@ const header = () => {
   };
 
   export {htmlStructure, header, startSortingBtn};
+  
